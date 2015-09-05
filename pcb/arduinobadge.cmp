@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by Cvpcb 0.201506012317+5694~23~ubuntu14.04.1-product   date = Tue 02 Jun 2015 09:59:42 PM EEST
+
+BeginCmp
+TimeStamp = /555109DE;
+Reference = P101;
+ValeurCmp = 8x2_LCD;
+IdModule  = netl:8x2_LCD;
+EndCmp
+
+BeginCmp
+TimeStamp = /556E03CF;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = netl:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /556E0482;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = netl:SMD_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /556E1282;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_DIP_x1_Slide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55510C89;
+Reference = SW101;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_DIP_x1_Slide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55510D26;
+Reference = SW102;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_ThroughHole:SW_DIP_x1_Slide;
+EndCmp
+
+BeginCmp
+TimeStamp = /556DE466;
+Reference = U1;
+ValeurCmp = Arduino_Uno;
+IdModule  = netl:Arduino_uno;
+EndCmp
+
+EndListe
